@@ -8,8 +8,7 @@
     "build": "npm install && tsc",
     "lint": "eslint . --ext .ts",
     "dev": "nodemon ./src/server.ts",
-    "start": "node ./build/server.js",
-    "postinstall": "npm install --only=dev"
+    "start": "node ./build/server.js"
   },
   "keywords": [],
   "author": "",
