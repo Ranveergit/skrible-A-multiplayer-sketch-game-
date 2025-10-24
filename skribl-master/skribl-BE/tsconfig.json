@@ -16,6 +16,6 @@
     "noUnusedLocals": true,
     "skipLibCheck": true,
     /* Add this to make sure Node and other @types modules are recognized */
-    "types": []
+    "types": ["node"]
   }
 }
